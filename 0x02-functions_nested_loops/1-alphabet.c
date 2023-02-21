@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-* main - Entry point
-* Description: prints the alphabet, in lowercase, followed by a new line.
-* Return: void
-**/
+ *main - Entry point
+ *@c: The character to be checked
+ *Return: void
+ */
 
 void print_alphabet(void)
 {
